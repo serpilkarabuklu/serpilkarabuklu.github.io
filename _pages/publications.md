@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-## Journal articles 
+## Journal Articles 
 * Gürer, A., __Karabüklü, S.__, &amp; Çavuşoğlu, B. (2025). Duration as a prosodic cue in TİD: Focus realization in the extended domain. _Glossa. A journal of general linguistics_, 10(1). [https://doi.org/10.16995/glossa.17475](https://doi.org/10.16995/glossa.17475)
 * __Karabüklü, S.__*, Wood, S. *., Bradley, C., Wilbur, R. &amp; Malaia, E. (2025). Effect of sign language learning on temporal resolution of visual attention. _Journal of Vision_, 25(1):3. [https://doi.org/10.1167/jov.25.1.3](https://doi.org/10.1167/jov.25.1.3)
 * __Karabüklü, S.__ (2024). Simultaneity of Certainty in Turkish Sign Language (TİD). _Journal of Pragmatics_, 232:141-166, [https://doi.org/10.1016/j.pragma.2024.08.010](https://doi.org/10.1016/j.pragma.2024.08.010)
