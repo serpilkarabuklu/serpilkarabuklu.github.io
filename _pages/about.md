@@ -21,13 +21,11 @@ redirect_from:
 ------
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will hold a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) on 25th February. Details about the topic and discussion are upcoming! Hope to see everyone online!
 
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will present our study on evaluating sign language models in [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html) on 3rd February. If you are in Urbana, hope to see you there!
+
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new!
 
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
 
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how sign language affects signers' and learners' production and perception at [APS Roundtable Perceiving Motion, Producing Meaning](https://app.socio.events/NTYxNDc/Agenda/479976/Session/1321069).
-
-<img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how prominence shapes simultaneity in ASL and TİD at [the University of Chicago Center for Gesture, Sign, and Language Mini Conference](https://voices.uchicago.edu/cgsl/events/).
-
-<img src="/images/business.png" width="25" style="vertical-align:middle; margin-right:5px;"> __May 2025__ Along with [Austin German](https://austin-german.github.io/) and [Jeff Davis](https://linguistics.uchicago.edu/people/jeffery-davis), we received a small grant from the Center for Gesture, Sign, and Language at the University of Chicago to investigate the effects of animacy on word order across languages, ASL, TİD, LSN, and Z Sign. Stay tuned for the results!
 
