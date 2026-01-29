@@ -12,8 +12,8 @@ redirect_from:
 ## Invited Presentations
 ---
 * __Karabüklü, S.__ (2026). How well do sign language models use the multiple channels in sign language? A targeted linguistic analysis of sign language models. Talk will be presented at the [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html), Feb 3.
-* __Karabüklü, S.__ (2025). Prominence in Simultaneity: Instrumentality, Typicality, and Functionality in ASL and TİD. Talk presented at the Center for Gesture, Sign, and Language, Oct 17.
-* __Karabüklü, S.__ (2025). What is the role of Head Nod in Turkish Sign Language (TİD): Signer Certainty, Confirmation, or Verum? Talk presented at Tu+ 10: The 10th Workshop on Turkic and Languages in Contact with Turkic, Los Angeles, CA, Mar 1-2.
+* __Karabüklü, S.__ (2025). Prominence in Simultaneity: Instrumentality, Typicality, and Functionality in ASL and TİD. Talk presented at the [Center for Gesture, Sign, and Language Mini Conference](https://voices.uchicago.edu/cgsl/events/), Oct 17.
+* __Karabüklü, S.__ (2025). What is the role of Head Nod in Turkish Sign Language (TİD): Signer Certainty, Confirmation, or Verum? Talk presented at [Tu+ 10: The 10th Workshop on Turkic and Languages in Contact with Turkic](https://sites.google.com/usc.edu/tuplus10/home), Los Angeles, CA, Mar 1-2.
 * __Karabüklü, S.__ (2024). Focus realization in the extended domain. Talk presented at Max Planck Institute for Psycholinguistics Multimodal Language Department, Nijmegen, The Netherlands, Dec 5.
 * __Karabüklü, S.__ (2024). (A)typicality in Manual and Nonmanual Channels. Talk presented at Wichita State University Department of Modern Languages and Cultures, Wichita, KS, Mar 8.
 * __Karabüklü, S.__ (2024). Effects of Atypicality in Manual and Nonmanual Domains. Talk presented at Southern Illinois University Department of Languages and Cultures, Carbondale, IL, Jan 18.
