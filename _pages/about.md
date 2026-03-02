@@ -19,7 +19,7 @@ redirect_from:
 
 ## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> Recent News
 ------
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will hold a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) on 25th February. Details about the topic and discussion are upcoming! Hope to see everyone online!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ I will hold a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in May. Details about the topic and discussion are upcoming! Hope to see everyone online! 
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will present our study on evaluating sign language models in [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html) on 3rd February. If you are in Urbana, IL, hope to see you there!
 
