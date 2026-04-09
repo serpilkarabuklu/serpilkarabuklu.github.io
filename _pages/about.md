@@ -19,6 +19,8 @@ redirect_from:
 
 ## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> Recent News
 ------
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our work with [Cem](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) is accepted to the [FEAST Conference](https://sites.google.com/view/feast-2026/home?authuser=0) as a stage presentation in July. Huge shout-out to Cem because this work evolved from his term project on Clausal Question-Answer Pairs (CQA) in TİD! Happy to connect with old friends and make new ones! See you in Amsterdam!
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ I will hold a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in May. Details about the topic and discussion are upcoming! Hope to see everyone online! 
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will present our study on evaluating sign language models in [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html) on 3rd February. If you are in Urbana, IL, hope to see you there!
@@ -26,6 +28,4 @@ redirect_from:
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new ones!
 
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
-
-<img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how sign language affects signers' and learners' production and perception at [APS Roundtable Perceiving Motion, Producing Meaning](https://app.socio.events/NTYxNDc/Agenda/479976/Session/1321069).
 
