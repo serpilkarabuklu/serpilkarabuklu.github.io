@@ -11,7 +11,9 @@ redirect_from:
 
 ## Invited Presentations
 ---
-* __Karabüklü, S.__ (2026). How well do sign language models use the multiple channels in sign language? A targeted linguistic analysis of sign language models. Talk will be presented at the [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html), Feb 3.
+* __Karabüklü, S.__ (2026). Capturing Nuanced Head Nod Distinctions in ASL and TİD: Age of Acquisition Effects. Talk presented at the [Language Evolution, Acquisition, and Processing Workshop (LEAP)](https://voices.uchicago.edu/leap/#schedule), University of Chicago, May 22.
+* __Karabüklü, S.__ (2026). How to Capture Differences in Nonmanuals: Behavioral and Computational Analyses. Talk presented at the [Making Waves: Researching acquisition of prosody and gesture](https://sites.google.com/view/making-waves-group/meetings?authuser=0), May 13.
+* __Karabüklü, S..__ (2026). How well do sign language models use the multiple channels in sign language? A targeted linguistic analysis of sign language models. Talk presented at [the Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html), Feb 3.
 * __Karabüklü, S.__ (2025). Prominence in Simultaneity: Instrumentality, Typicality, and Functionality in ASL and TİD. Talk presented at the [Center for Gesture, Sign, and Language Mini Conference](https://voices.uchicago.edu/cgsl/events/), Oct 17.
 * __Karabüklü, S.__ (2025). What is the role of Head Nod in Turkish Sign Language (TİD): Signer Certainty, Confirmation, or Verum? Talk presented at [Tu+ 10: The 10th Workshop on Turkic and Languages in Contact with Turkic](https://sites.google.com/usc.edu/tuplus10/home), Los Angeles, CA, Mar 1-2.
 * __Karabüklü, S.__ (2024). Focus realization in the extended domain. Talk presented at Max Planck Institute for Psycholinguistics Multimodal Language Department, Nijmegen, The Netherlands, Dec 5.
@@ -23,6 +25,8 @@ redirect_from:
 
 ## Refereed Conference Presentations
 ---
+* __Karabüklü, S__., Misra, K., Gueuwou, S., Brentari, D. Shakharanovich, G. & Livescu, K. (2026). Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs. [CVPR 2026, GenSign: Generative AI for Sign Language Workshop](https://genai4sl.github.io/), Denver, Colorado, June 3-7. 
+* Barutçu, C. &amp; __Karabüklü, S.__ (2026). Clausal Question-Answer Constituents in Turkish Sign Language (TİD). Talk will be presented at the [Formal and Experimental Advances in Sign Language Theory (FEAST 2026)](https://sites.google.com/view/feast-2026/home?authuser=0), Amsterdam, Netherlands, Jul 6-8.
 * __Karabüklü, S.__ &amp; Brentari, D. (2026). Simultaneous Articulation in Sign Languages Enhances Semantic Capabilities. Talk will be presented at the Annual Conference of Linguistic Society of America (LSA), Jan 8-11.
 * __Karabüklü, S.__ (2025) Form and Meaning Relations of Head Nods Across Sign Languages: A Pose Estimation Study. Talk presented at Sign Language Grammars, Parsing Models, & the Brain, Nov 6-7.
 * __Karabüklü, S.__ (2025). Changes in perception and cognition in signers and learners due to the physical and linguistic properties of sign language signal. Presented at Perceiving Motion, Producing Meaning: How Sign Language Rewires the Body and Brain at 2025 APS Global Psychological Science Summit, Oct 21-23
