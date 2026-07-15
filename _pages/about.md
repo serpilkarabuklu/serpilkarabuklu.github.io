@@ -19,6 +19,8 @@ redirect_from:
 
 ## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> Recent News
 ------
+<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! 
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) is accepted to the [FEAST Conference](https://sites.google.com/view/feast-2026/home?authuser=0) as a stage presentation in July. Kudos to Cem because this work evolved from his term project on Clausal Question-Answer Pairs (CQA) in TİD! Happy to connect with old friends and make new ones! See you in Amsterdam!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2026__ Our [preprint](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) is accepted to the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) as a poster! I will be in Denver, CO to present it and looking forward to meeting with colleagues!
@@ -30,6 +32,4 @@ redirect_from:
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will present our study on evaluating sign language models in [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html) on 3rd February. If you are in Urbana, IL, hope to see you there!
 
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new ones!
-
-<img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
 
