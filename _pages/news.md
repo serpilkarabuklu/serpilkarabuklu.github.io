@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! 
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) is accepted to the [FEAST Conference](https://sites.google.com/view/feast-2026/home?authuser=0) as a stage presentation in July. Kudos to Cem because this work evolved from his term project on Clausal Question-Answer Pairs (CQA) in TİD! Happy to connect with old friends and make new ones! See you in Amsterdam!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2026__ Our [preprint](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) is accepted to the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) as a poster! I will be in Denver, CO to present it and looking forward to meeting with colleagues!
