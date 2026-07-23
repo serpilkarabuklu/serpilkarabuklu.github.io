@@ -7,7 +7,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! 
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ [New preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) is out! We tested how continuous movement of head nods in ASL and TID are shaped to convey two distinct linguistic functions - prosodic and semantic head nods. Kinematic features and DTW analysis showed that ASL and TID signers use distinct trajectories to convey prosodic head nods - very first crosslinguistic distinctions in nonmanuals. In contrast, they use similar trajectories for semantic head nods. Excited for the future work that this study will bring forth!
+
+<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! Congratulations to all my co-authors!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) is accepted to the [FEAST Conference](https://sites.google.com/view/feast-2026/home?authuser=0) as a stage presentation in July. Kudos to Cem because this work evolved from his term project on Clausal Question-Answer Pairs (CQA) in TİD! Happy to connect with old friends and make new ones! See you in Amsterdam!
 
