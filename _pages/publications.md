@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 
 ---
+## Preprints
+* __Karabüklü, S.__, Hakgüder, E. &amp; Brentari, D. (2026). Beyond the Label: Capturing Nuanced Head Nod Distinctions in ASL and TİD via Pose Estimation and DTW. PsyArXiv. [https://doi.org/10.31234/osf.io/jgq9n_v2](https://doi.org/10.31234/osf.io/jgq9n_v2)
 
 ## Journal Articles 
 * Gürer, A., __Karabüklü, S.__, &amp; Çavuşoğlu, B. (2025). Duration as a prosodic cue in TİD: Focus realization in the extended domain. _Glossa. A journal of general linguistics_, 10(1). [https://doi.org/10.16995/glossa.17475](https://doi.org/10.16995/glossa.17475)
@@ -18,6 +20,8 @@ redirect_from:
 * __Karabüklü, S.__ (2018). Strategies to express time in a tenseless language: Turkish Sign Language (TİD), _Dilbilim Araştırmaları Dergisi \[Journal of Linguistics Research\]_ 29/1: 87-118. [https://doi.org/10.18492/dad.373461](https://doi.org/10.18492/dad.373461)
 
 ## Conference Proceedings
+* __Karabüklü, S.__, Misra, K., Gueuwou, S., Brentari, D., Shakhnarovich, G. &amp; Livescu, K. (2026). [Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf). _Nonarchival Proceedings of GenSign: Generative AI for Sign Language Workshop at CVPR 2026_. arxiv: 2604.27232 __Best Paper Award__
+
 * Gürer, A. &amp; __Karabüklü, S.__ (2023). Non-manual Focus Markers in Turkish Sign Language (TİD). _Proceedings of TU+ 7 Workshop_. 32-45. [https://doi.org/10.3765/ptu.v7i1.5321](https://doi.org/10.3765/ptu.v7i1.5321)
 * __Karabüklü, S.__ &amp; Wilbur, R. B. (2020). Seeing Possible Worlds. _Proceedings of Chicago Linguistic Society 55th Meeting_, 189-204.
 * __Karabüklü, S.__, Bross, F., Wilbur, R. B. &amp; Hole D. (2018). Modal Signs and Scope Relations in TİD. _Proceedings of Formal and Experimental Advances in Sign Language Theory (FEAST) 2_: 82-92. [https://doi.org/10.31009/FEAST.i2.07](https://doi.org/10.31009/FEAST.i2.07)
