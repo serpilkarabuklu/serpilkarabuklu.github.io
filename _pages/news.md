@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ My work 'Age of Acquisition Effects on Head Nods in ASL: Computational Approaches' is accepted to [BUCLD (Boston University Conference on Language Development)](https://www.bu.edu/bucld/) as a poster presentation! Hope to see everyone in Boston in November!
+
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ [New preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) is out! We tested how continuous movement of head nods in ASL and TID are shaped to convey two distinct linguistic functions - prosodic and semantic head nods. Kinematic features and DTW analysis showed that ASL and TID signers use distinct trajectories to convey prosodic head nods - very first crosslinguistic distinctions in nonmanuals. In contrast, they use similar trajectories for semantic head nods. Excited for the future work that this study will bring forth!
 
 <img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! Congratulations to all my co-authors!
