@@ -25,8 +25,9 @@ redirect_from:
 
 ## Refereed Conference Presentations
 ---
-* __Karabüklü, S__., Misra, K., Gueuwou, S., Brentari, D. Shakharanovich, G. & Livescu, K. (2026). Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs. [CVPR 2026, GenSign: Generative AI for Sign Language Workshop](https://genai4sl.github.io/), Denver, Colorado, June 3-7. 
+* __Karabüklü, S__. (2026). Age of Acquisition Effects on Head Nods in ASL: Computational Approaches. [BUCDL 2026, Boston University Conference on Language Development](https://www.bu.edu/bucld/), Boston, MA, November 5-8. 
 * Barutçu, C. &amp; __Karabüklü, S.__ (2026). Clausal Question-Answer Constituents in Turkish Sign Language (TİD). Talk will be presented at the [Formal and Experimental Advances in Sign Language Theory (FEAST 2026)](https://sites.google.com/view/feast-2026/home?authuser=0), Amsterdam, Netherlands, Jul 6-8.
+* __Karabüklü, S__., Misra, K., Gueuwou, S., Brentari, D. Shakharanovich, G. & Livescu, K. (2026). Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs. [CVPR 2026, GenSign: Generative AI for Sign Language Workshop](https://genai4sl.github.io/), Denver, Colorado, June 3-7. 
 * __Karabüklü, S.__ &amp; Brentari, D. (2026). Simultaneous Articulation in Sign Languages Enhances Semantic Capabilities. Talk will be presented at the Annual Conference of Linguistic Society of America (LSA), Jan 8-11.
 * __Karabüklü, S.__ (2025) Form and Meaning Relations of Head Nods Across Sign Languages: A Pose Estimation Study. Talk presented at Sign Language Grammars, Parsing Models, & the Brain, Nov 6-7.
 * __Karabüklü, S.__ (2025). Changes in perception and cognition in signers and learners due to the physical and linguistic properties of sign language signal. Presented at Perceiving Motion, Producing Meaning: How Sign Language Rewires the Body and Brain at 2025 APS Global Psychological Science Summit, Oct 21-23
