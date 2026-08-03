@@ -19,6 +19,8 @@ redirect_from:
 
 ## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> Recent News
 ------
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ My work 'Age of Acquisition Effects on Head Nods in ASL: Computational Approaches' is accepted to [BUCLD (Boston University Conference on Language Development)](https://www.bu.edu/bucld/) as a poster presentation! Hope to see everyone in Boston in November!
+
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ [New preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) is out! We tested how continuous movement of head nods in ASL and TID are shaped to convey two distinct linguistic functions - prosodic and semantic head nods. Kinematic features and DTW analysis showed that ASL and TID signers use distinct trajectories to convey prosodic head nods - very first crosslinguistic distinctions in nonmanuals. In contrast, they use similar trajectories for semantic head nods. Excited for the future work that this study will bring forth!
 
 <img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! 
@@ -29,7 +31,6 @@ redirect_from:
 
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ Our [new preprint](https://arxiv.org/abs/2604.27232) is out! We introduce ASL-MTP and use it to analyze how current models handle key linguistic phenomena in ASL. Our findings show that models rely heavily on manual cues and often miss crucial nonmanual information—highlighting a gap in modeling simultaneous structure in sign languages. This is a step toward more linguistically grounded evaluation of multimodal language models. The project was started with [Shester's](https://shesterg.github.io/) idea and design, and huge shout-out to all my collaborators!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ I will hold a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in May. Details about the topic and discussion are upcoming! Hope to see everyone online! 
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will present our study on evaluating sign language models in [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html) on 3rd February. If you are in Urbana, IL, hope to see you there!
 
