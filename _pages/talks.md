@@ -25,7 +25,7 @@ redirect_from:
 
 ## Refereed Conference Presentations
 ---
-* __Karabüklü, S__., Misra, K., Gueuwou, S., Brentari, D. Shakharanovich, G. &amp; Livescu, K. (2027). Linguistic Analysis of Sign Language Models using Sentence Level Minimal Pairs. [LSA 2027,Signed Languages and AI: Advances, Challenges, and Ethics Symposium](https://www.lsadc.org/lsa-annual-meeting), San Francisco, California, January 6-9.
+* __Karabüklü, S__., Misra, K., Gueuwou, S., Brentari, D. Shakharanovich, G. &amp; Livescu, K. (2027). Linguistic Analysis of Sign Language Models using Sentence Level Minimal Pairs. [LSA 2027 - Linguistics Society of America Annual Meeting, Signed Languages and AI: Advances, Challenges, and Ethics Symposium](https://www.lsadc.org/lsa-annual-meeting), San Francisco, California, January 6-9.
 * __Karabüklü, S__. (2026). Age of Acquisition Effects on Head Nods in ASL: Computational Approaches. [BUCDL 2026, Boston University Conference on Language Development](https://www.bu.edu/bucld/), Boston, MA, November 5-8. 
 * Barutçu, C. &amp; __Karabüklü, S.__ (2026). Clausal Question-Answer Constituents in Turkish Sign Language (TİD). Talk will be presented at the [Formal and Experimental Advances in Sign Language Theory (FEAST 2026)](https://sites.google.com/view/feast-2026/home?authuser=0), Amsterdam, Netherlands, Jul 6-8.
 * __Karabüklü, S__., Misra, K., Gueuwou, S., Brentari, D. Shakharanovich, G. &amp; Livescu, K. (2026). Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs. [CVPR 2026, GenSign: Generative AI for Sign Language Workshop](https://genai4sl.github.io/), Denver, Colorado, June 3-7. 
