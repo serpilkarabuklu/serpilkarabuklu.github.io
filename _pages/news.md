@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ The work which I led on the linguistic analysis of SHuBERT-based sign language model is accepted to the Signed Languages and AI: Advances, Challenges, and Ethics Symposium in [LSA 2027](https://www.lsadc.org/lsa-annual-meeting)! I will discuss how sign language models have difficulty in utilizing the multi-channel structure of sign languages, where signers are way more comfortable to do so. Excited for the symposium and looking forward to sign linguists' input on the rising AI research in sign languages.
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ My work 'Age of Acquisition Effects on Head Nods in ASL: Computational Approaches' is accepted to [BUCLD (Boston University Conference on Language Development)](https://www.bu.edu/bucld/) as a poster presentation! Hope to see everyone in Boston in November!
 
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ [New preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) is out! We tested how continuous movement of head nods in ASL and TID are shaped to convey two distinct linguistic functions - prosodic and semantic head nods. Kinematic features and DTW analysis showed that ASL and TID signers use distinct trajectories to convey prosodic head nods - very first crosslinguistic distinctions in nonmanuals. In contrast, they use similar trajectories for semantic head nods. Excited for the future work that this study will bring forth!
