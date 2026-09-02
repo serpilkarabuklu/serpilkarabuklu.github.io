@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ My abstract presenting my research agenda <i>Language Across Channels: The Organization of Language Across Body, Space, and Time </i> is accepted to [American Association for Advancement of Science Annual Meeting 2027](https://meetings.aaas.org/) in February! I will be discussing how the multichannel simultaneous organization of sign languages is shaped to convey information! Excited for this opportunity!
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ The work which I led on the linguistic analysis of SHuBERT-based sign language model is accepted to the Signed Languages and AI: Advances, Challenges, and Ethics Symposium in [LSA 2027](https://www.lsadc.org/lsa-annual-meeting)! I will discuss how sign language models have difficulty in utilizing the multi-channel structure of sign languages, where signers are way more comfortable to do so. Excited for the symposium and looking forward to sign linguists' input on the rising AI research in sign languages.
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ My work 'Age of Acquisition Effects on Head Nods in ASL: Computational Approaches' is accepted to [BUCLD (Boston University Conference on Language Development)](https://www.bu.edu/bucld/) as a poster presentation! Hope to see everyone in Boston in November!
