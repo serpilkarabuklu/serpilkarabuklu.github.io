@@ -7,6 +7,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ Our abstract on computational analysis of head nod trajectories in ASL and TİD is accepted to [LSA Annual Meeting 2027](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary) in January! Our results show that sign languages map linguistic functions into specific kinematic features rather than a single holistic movement. Excited for this opportunity!
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ My abstract presenting my research agenda <i>Language Across Channels: The Organization of Language Across Body, Space, and Time </i> is accepted to [American Association for Advancement of Science Annual Meeting 2027](https://meetings.aaas.org/) in February! I will be discussing how the multichannel simultaneous organization of sign languages is shaped to convey information! Excited for this opportunity!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ The work which I led on the linguistic analysis of SHuBERT-based sign language model is accepted to the Signed Languages and AI: Advances, Challenges, and Ethics Symposium in [LSA 2027](https://www.lsadc.org/lsa-annual-meeting)! I will discuss how sign language models have difficulty in utilizing the multi-channel structure of sign languages, where signers are way more comfortable to do so. Excited for the symposium and looking forward to sign linguists' input on the rising AI research in sign languages.
