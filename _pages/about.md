@@ -9,27 +9,56 @@ redirect_from:
 
 ## About me
 
-   I am an interdisciplinary researcher who is after the multichannel organization of language. Working on sign languages, my research focuses on how human mind organizes visual modality and uses its simultaneous nature to realize the semantic and pragmatic notions across languages and populations. I am specifically interested in how manual domain (hands) and nonmanual domain (face and body movements) are modulated to convey semantic notions such as certainty, information structure, or prominence and (a)typicality across languages such as American Sign Language (ASL), Turkish Sign Language (TİD), Nicaraguan Sign Language (LSN), and populations such as early acquirers, late acquirers, or emerging sign language users. I am currently extending my skillset to computational models trained on sign languages and to test their capacity to capture this simultaneous nature. 
-   
-  I held post-doctoral appointments at  [Toyota Technological Institute at Chicago (TTIC)](https://ttic.edu/) within [Speech & Language group (SL@TTIC)](https://slattic.ttic.edu/) and [Perception and Learning Systems (PALS)](https://pals.ttic.edu/) groups, and at Dr. Diane Brentari's [Sign Language Linguistics Laboratory](https://signlanguagelab.uchicago.edu/) at the Department of Linguistics at the University of Chicago. I received my Ph.D. from the Department of Linguistics at Purdue University under Dr. [Ronnie B. Wilbur's](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) supervision. If you want to know more about my research, you can find my CV [here](https://serpilkarabuklu.github.io/files/Karabuklu_CV.pdf). 
-  
-   While not working on sign languages, you can find me exploring the city with my retriever-mix rescue dog, Oscar, going on hikes, swimming, or picking up a new hobby.
+__How does language organize meaning when multiple channels can express information simultaneously?__
+
+This question drives my research at the intersection of theoretical linguistics, psycholinguistics, and computational modeling. I investigate how linguistic information is distributed and coordinated across the hands, face, body, space, and time, and what this organization reveals about the structure of human language.
+
+Sign languages offer a unique window into this question. They make extensive use of simultaneity, allowing multiple articulators to convey distinct, interacting layers of linguistic information. My research examines how signers exploit this capacity to express meaning, how these patterns develop and vary across languages and language acquisition histories, and whether computational models capture the linguistic structure that human signers use.
+
+My work combines linguistic analysis, experimental methods, motion tracking, and computational approaches. I have investigated semantic and prosodic phenomena, including certainty, information structure, prominence, and head movements, across American Sign Language (ASL), Turkish Sign Language (TİD), and Nicaraguan Sign Language (LSN). More recently, I have developed linguistically grounded approaches to evaluating how sign language AI models represent information across channels.
+
+__My broader research goal is to understand the principles that govern the organization of language across channels, modalities, and populations.__ By connecting human language production and comprehension with computational modeling, I aim to uncover how linguistic systems exploit the possibilities and constraints of multimodal communication.
+
+## Research Background
+
+I previously held postdoctoral research appointments at Toyota Technological Institute at Chicago (TTIC), working with the Speech and Language and Perception and Learning Systems groups, and at the University of Chicago's Sign Language Linguistics Laboratory. I earned my PhD in Linguistics from Purdue University.
+
+My research bridges linguistic theory, experimental investigation, and computational methods through interdisciplinary collaborations.
+
+Outside research, I enjoy exploring new places, hiking, swimming, and spending time with my rescue dog, Oscar.
 
 ## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> Recent News
 ------
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ Our abstract on computational analysis of head nod trajectories in ASL and TİD is accepted to [LSA Annual Meeting 2027](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary) in January! Our results show that sign languages map linguistic functions into specific kinematic features rather than a single holistic movement. Excited for this opportunity!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026 | LSA 2027 – Crosslinguistic Research__ 
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ My abstract presenting my research agenda <i>Language Across Channels: The Organization of Language Across Body, Space, and Time </i> is accepted to [American Association for Advancement of Science Annual Meeting 2027](https://meetings.aaas.org/) in February! I will be discussing how the multichannel simultaneous organization of sign languages is shaped to convey information! Excited for this opportunity!
+Our work on the computational analysis of head nod trajectories in American Sign Language (ASL) and Turkish Sign Language (TİD) has been accepted for presentation at the [2027 Linguistic Society of America Annual Meeting](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary)! Our findings reveal how distinct linguistic functions are encoded through specific kinematic properties of head movements, rather than through holistic movement patterns.
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ The work which I led on the linguistic analysis of SHuBERT-based sign language model is accepted to the Signed Languages and AI: Advances, Challenges, and Ethics Symposium in [LSA 2027](https://www.lsadc.org/lsa-annual-meeting)! We will discuss how sign language models have difficulty in utilizing the multi-channel structure of sign languages, where signers are way more comfortable to do so. Excited for the symposium and looking forward to sign linguists' input on the rising AI research in sign languages.
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026 | AAAS 2027 – Research Vision__ 
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ My work 'Age of Acquisition Effects on Head Nods in ASL: Computational Approaches' is accepted to [BUCLD (Boston University Conference on Language Development)](https://www.bu.edu/bucld/) as a poster presentation! Hope to see everyone in Boston in November!
+My talk, _Language Across Channels: The Organization of Language Across Body, Space, and Time_, has been accepted for the [2027 AAAS Annual Meeting](https://meetings.aaas.org/)! I'll present my broader research agenda on how sign languages organize linguistic information simultaneously across multiple channels and what this reveals about human language.
 
-<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ [New preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) is out! We tested how continuous movement of head nods in ASL and TID are shaped to convey two distinct linguistic functions - prosodic and semantic head nods. Kinematic features and DTW analysis showed that ASL and TID signers use distinct trajectories to convey prosodic head nods - very first crosslinguistic distinctions in nonmanuals. In contrast, they use similar trajectories for semantic head nods. Excited for the future work that this study will bring forth!
 
-<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! 
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026 | LSA 2027 – Sign Language AI__ 
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) is accepted to the [FEAST Conference](https://sites.google.com/view/feast-2026/home?authuser=0) as a stage presentation in July. Kudos to Cem because this work evolved from his term project on Clausal Question-Answer Pairs (CQA) in TİD! Happy to connect with old friends and make new ones! See you in Amsterdam!
+My research on the linguistic capabilities of SHuBERT, a computational model of sign language, has been accepted for presentation at the _Signed Languages and AI: Advances, Challenges, and Ethics_ symposium at [LSA 2027](https://www.lsadc.org/lsa-annual-meeting). This work examines where current models succeed and struggle in capturing the multichannel structure of sign languages. I'm looking forward to discussing these findings with the sign linguistics and AI communities!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2026__ Our [preprint](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) is accepted to the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) as a poster! I will be in Denver, CO to present it and looking forward to meeting with colleagues!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026 | BUCLD 2026 – Language Acquisition__ 
+
+My work, _Age of Acquisition Effects on Head Nods in ASL: Computational Approaches_, has been accepted as a poster at the [2026 Boston University Conference on Language Development (BUCLD)](https://www.bu.edu/bucld/). This study investigates how language acquisition history shapes the production of head movements in ASL.
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026 | New Preprint – Head Movements Across Sign Languages__ 
+
+Our [new preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) examines how ASL and TİD signers use head nod trajectories to express semantic and prosodic functions. Using kinematic analysis and Dynamic Time Warping (DTW), we found crosslinguistic differences in prosodic head nods but similarities in semantic head nods. These findings provide new insights into how linguistic functions shape the temporal organization of movements across sign languages.
+
+<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026 | Best Paper Award – CVPR GenSign Workshop__
+
+Our [paper](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) on the linguistic evaluation of sign language models received the __Best Paper Award__ at the CVPR 2026 GenSign Workshop! This work introduces linguistically grounded evaluation using minimal pairs and examines how computational models capture grammatical distinctions expressed across multiple channels. I'm especially happy to share this recognition with my collaborators!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026 | FEAST 2026 – TİD Syntax and Semantics__ 
+
+Our joint work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) on Clausal Question–Answer Pairs (CQAs) in Turkish Sign Language was accepted for presentation at [FEAST 2026](https://sites.google.com/view/feast-2026/home?authuser=0) in Amsterdam! This project grew out of Cem's course project and developed into a collaborative investigation of the syntax and semantics of CQAs. It's particularly rewarding to see student research develop into a conference presentation!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2026 | CVPR GenSign Workshop – Sign Language Models__ 
+
+Our [work](https://arxiv.org/abs/2604.27232) investigating the linguistic sensitivity of sign language models was accepted as a poster at the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) in Denver! Using linguistically motivated minimal pairs, we examine whether computational models capture grammatical information across manual and nonmanual channels.
 
