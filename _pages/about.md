@@ -11,19 +11,21 @@ redirect_from:
 
 __How does language organize meaning when multiple channels can express information simultaneously?__
 
-This question drives my research at the intersection of theoretical linguistics, psycholinguistics, and computational modeling. I investigate how linguistic information is distributed and coordinated across the hands, face, body, space, and time, and what this organization reveals about the structure of human language.
+This question drives my research at the intersection of __sign language linguistics, psycholinguistics, and computational modeling__. I study how linguistic information is distributed and coordinated across the hands, face, body, space, and time, and what this organization reveals about the structure of human language.
 
-Sign languages offer a unique window into this question. They make extensive use of simultaneity, allowing multiple articulators to convey distinct, interacting layers of linguistic information. My research examines how signers exploit this capacity to express meaning, how these patterns develop and vary across languages and language acquisition histories, and whether computational models capture the linguistic structure that human signers use.
+Sign languages offer a unique window into the organization of __simultaneity and multimodal communication__. They make extensive use of simultaneity, allowing multiple articulators to convey distinct, interacting layers of linguistic information. My research examines how signers use these channels to encode and interpret meaning, how their coordination varies across languages and language acquisition histories, and whether computational models capture the linguistic distinctions that human signers recognize.
 
-My work combines linguistic analysis, experimental methods, motion tracking, and computational approaches. I have investigated semantic and prosodic phenomena, including certainty, information structure, prominence, and head movements, across American Sign Language (ASL), Turkish Sign Language (TİD), and Nicaraguan Sign Language (LSN). More recently, I have developed linguistically grounded approaches to evaluating how sign language AI models represent information across channels.
+My empirical work examines __semantics, pragmatics, prosody, and information structure in sign languages__, with particular attention to certainty, focus prominence, and the linguistic functions of facial expressions and head movements. Drawing on American Sign Language (ASL) and Turkish Sign Language (TİD), I combine linguistic analysis, experimental methods, motion tracking, and computational approaches to investigate how manual and nonmanual articulators contribute to linguistic structure.
 
-__My broader research goal is to understand the principles that govern the organization of language across channels, modalities, and populations.__ By connecting human language production and comprehension with computational modeling, I aim to uncover how linguistic systems exploit the possibilities and constraints of multimodal communication.
+More recently, I have extended this research to __computational sign language understanding and linguistic evaluation of AI models__. My work develops linguistically grounded evaluation methods, including minimal translation pairs, to investigate whether sign language models capture grammatical distinctions distributed across multiple bodily channels.
+
+My broader research program, __Language Across Channels__, seeks to identify the principles governing how linguistic information is allocated, coordinated, and interpreted across articulators, modalities, and populations. By connecting linguistic theory with human language production, comprehension, and computational modeling, I aim to advance our understanding of simultaneity as a fundamental property of human language.
 
 ## Research Background
 
 I previously held postdoctoral research appointments at Toyota Technological Institute at Chicago (TTIC), working with the Speech and Language and Perception and Learning Systems groups, and at the University of Chicago's Sign Language Linguistics Laboratory. I earned my PhD in Linguistics from Purdue University.
 
-My research bridges linguistic theory, experimental investigation, and computational methods through interdisciplinary collaborations.
+My research brings together theoretical, experimental, and computational perspectives through interdisciplinary collaborations across sign linguistics, psycholinguistics, and artificial intelligence.
 
 Outside research, I enjoy exploring new places, hiking, swimming, and spending time with my rescue dog, Oscar.
 
