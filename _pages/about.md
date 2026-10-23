@@ -9,13 +9,13 @@ redirect_from:
 
 ## About me
 
-__How does language organize meaning when multiple channels can express information simultaneously?__
+__How does language organize meaning when multiple channels that express information simultaneously?__
 
 This question drives my research at the intersection of __sign language linguistics, psycholinguistics, and computational modeling__. I study how linguistic information is distributed and coordinated across the hands, face, body, space, and time, and what this organization reveals about the structure of human language.
 
 Sign languages offer a unique window into the organization of __simultaneity and multimodal communication__. They make extensive use of simultaneity, allowing multiple articulators to convey distinct, interacting layers of linguistic information. My research examines how signers use these channels to encode and interpret meaning, how their coordination varies across languages and language acquisition histories, and whether computational models capture the linguistic distinctions that human signers recognize.
 
-My empirical work examines __semantics, pragmatics, prosody, and information structure in sign languages__, with particular attention to certainty, focus prominence, and the linguistic functions of facial expressions and head movements. Drawing on American Sign Language (ASL) and Turkish Sign Language (TİD), I combine linguistic analysis, experimental methods, motion tracking, and computational approaches to investigate how manual and nonmanual articulators contribute to linguistic structure.
+My empirical work examines __semantics, pragmatics, prosody, and information structure in sign languages__, with particular attention to certainty, focus prominence, and the linguistic functions of facial expressions and head movements. Drawing on American Sign Language (ASL) and Turkish Sign Language (TİD), I combine linguistic analysis, experimental methods, motion tracking, and computational approaches to investigate how manual and nonmanual articulators contribute to linguistic structure. Through this work, I aim to understand not only how sign languages organize linguistic information, but also what their organization reveals about __the architecture of human language and the cognitive mechanisms underlying linguistic representation and processing__.
 
 More recently, I have extended this research to __computational sign language understanding and linguistic evaluation of AI models__. My work develops linguistically grounded evaluation methods, including minimal translation pairs, to investigate whether sign language models capture grammatical distinctions distributed across multiple bodily channels.
 
