@@ -7,37 +7,57 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ Our abstract on computational analysis of head nod trajectories in ASL and TİD is accepted to [LSA Annual Meeting 2027](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary) in January! Our results show that sign languages map linguistic functions into specific kinematic features rather than a single holistic movement. Excited for this opportunity!
+# News
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2026__ My abstract presenting my research agenda <i>Language Across Channels: The Organization of Language Across Body, Space, and Time </i> is accepted to [American Association for Advancement of Science Annual Meeting 2027](https://meetings.aaas.org/) in February! I will be discussing how the multichannel simultaneous organization of sign languages is shaped to convey information! Excited for this opportunity!
+Research updates, publications, conference presentations, awards, and collaborations.
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ The work which I led on the linguistic analysis of SHuBERT-based sign language model is accepted to the Signed Languages and AI: Advances, Challenges, and Ethics Symposium in [LSA 2027](https://www.lsadc.org/lsa-annual-meeting)! I will discuss how sign language models have difficulty in utilizing the multi-channel structure of sign languages, where signers are way more comfortable to do so. Excited for the symposium and looking forward to sign linguists' input on the rising AI research in sign languages.
+For an overview of my scientific contributions, visit my [Research](/research/) page or browse my [Publications](/publications/).
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2026__ My work 'Age of Acquisition Effects on Head Nods in ASL: Computational Approaches' is accepted to [BUCLD (Boston University Conference on Language Development)](https://www.bu.edu/bucld/) as a poster presentation! Hope to see everyone in Boston in November!
+---
 
-<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ [New preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) is out! We tested how continuous movement of head nods in ASL and TID are shaped to convey two distinct linguistic functions - prosodic and semantic head nods. Kinematic features and DTW analysis showed that ASL and TID signers use distinct trajectories to convey prosodic head nods - very first crosslinguistic distinctions in nonmanuals. In contrast, they use similar trajectories for semantic head nods. Excited for the future work that this study will bring forth!
+## 2026
 
-<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our CVPR [proceeding](https://arxiv.org/abs/2604.27232) has won the __Best Paper Award__! Congratulations to all my co-authors!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **September 2026 | LSA 2027 – Crosslinguistic Research**
+Our work on the computational analysis of head nod trajectories in American Sign Language (ASL) and Turkish Sign Language (TİD) has been accepted for presentation at the [2027 Linguistic Society of America Annual Meeting](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary)! Our findings reveal how distinct linguistic functions are encoded through specific kinematic properties of head movements, rather than through holistic movement patterns.
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2026__ Our work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) is accepted to the [FEAST Conference](https://sites.google.com/view/feast-2026/home?authuser=0) as a stage presentation in July. Kudos to Cem because this work evolved from his term project on Clausal Question-Answer Pairs (CQA) in TİD! Happy to connect with old friends and make new ones! See you in Amsterdam!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **September 2026 | AAAS 2027 – Research Vision**
+My talk, _Language Across Channels: The Organization of Language Across Body, Space, and Time_, has been accepted for the [2027 AAAS Annual Meeting](https://meetings.aaas.org/)! I'll present my broader research agenda on how sign languages organize linguistic information simultaneously across multiple channels and what this reveals about human language.
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2026__ Our [preprint](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) is accepted to the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) as a poster! I will be in Denver, CO to present it and looking forward to meeting with colleagues!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **August 2026 | LSA 2027 – Sign Language AI** 
+My research on the linguistic capabilities of SHuBERT, a computational model of sign language, has been accepted for presentation at the _Signed Languages and AI: Advances, Challenges, and Ethics_ symposium at [LSA 2027](https://www.lsadc.org/lsa-annual-meeting). This work examines where current models succeed and struggle in capturing the multichannel structure of sign languages. I'm looking forward to discussing these findings with the sign linguistics and AI communities!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **August 2026 | BUCLD 2026 – Language Acquisition** 
+My work, _Age of Acquisition Effects on Head Nods in ASL: Computational Approaches_, has been accepted as a poster at the [2026 Boston University Conference on Language Development (BUCLD)](https://www.bu.edu/bucld/). This study investigates how language acquisition history shapes the production of head movements in ASL.
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **July 2026 | New Preprint – Head Movements Across Sign Languages** 
+Our [new preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) examines how ASL and TİD signers use head nod trajectories to express semantic and prosodic functions. Using kinematic analysis and Dynamic Time Warping (DTW), we found crosslinguistic differences in prosodic head nods but similarities in semantic head nods. These findings provide new insights into how linguistic functions shape the temporal organization of movements across sign languages.
+
+<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> **July 2026 | Best Paper Award – CVPR GenSign Workshop**
+Our [paper](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) on the linguistic evaluation of sign language models received the **Best Paper Award** at the CVPR 2026 GenSign Workshop! This work introduces linguistically grounded evaluation using minimal pairs and examines how computational models capture grammatical distinctions expressed across multiple channels. I'm especially happy to share this recognition with my collaborators!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **July 2026 | FEAST 2026 – TİD Syntax and Semantics**
+Our joint work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) on Clausal Question–Answer Pairs (CQAs) in Turkish Sign Language was accepted for presentation at [FEAST 2026](https://sites.google.com/view/feast-2026/home?authuser=0) in Amsterdam! This project grew out of Cem's course project and developed into a collaborative investigation of the syntax and semantics of CQAs. It's particularly rewarding to see student research develop into a conference presentation!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **June 2026 | CVPR GenSign Workshop – Sign Language Models**
+Our [work](https://arxiv.org/abs/2604.27232) investigating the linguistic sensitivity of sign language models was accepted as a poster at the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) in Denver! Using linguistically motivated minimal pairs, we examine whether computational models capture grammatical information across manual and nonmanual channels.
 
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ Our [new preprint](https://arxiv.org/abs/2604.27232) is out! We introduce ASL-MTP and use it to analyze how current models handle key linguistic phenomena in ASL. Our findings show that models rely heavily on manual cues and often miss crucial nonmanual information—highlighting a gap in modeling simultaneous structure in sign languages. This is a step toward more linguistically grounded evaluation of multimodal language models. The project was started with [Shester's](https://shesterg.github.io/) idea and design, and huge shout-out to all my collaborators!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ I will hold a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in May. Details about the topic and discussion are upcoming! If you miss the workshop, no worries, the recording of the presentation is available [online](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in ASL, BSL, and English!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2026__ I held a discussion on sign languages in [Making Waves](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in May. If you miss the workshop, no worries, the recording of the presentation is available [online](https://sites.google.com/view/making-waves-group/meetings?authuser=0) in ASL, BSL, and English!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2026__ I will present our study on evaluating sign language models in [Second Workshop on Assistive and Inclusive Technology](https://speechtechnology.web.illinois.edu/waitda/wait2.html) on 3rd February. If you are in Urbana, IL, hope to see you there!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new ones!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
+## 2025
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Language Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how sign language affects signers' and learners' production and perception at [APS Roundtable Perceiving Motion, Producing Meaning](https://app.socio.events/NTYxNDc/Agenda/479976/Session/1321069).
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how prominence shapes simultaneity in ASL and TİD at [the University of Chicago Center for Gesture, Sign, and Language Mini Conference](https://voices.uchicago.edu/cgsl/events/).
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2025__ Although I couldn't make it in person, [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) presented our work on the prosody of focus in TİD at [ISGS 10](https://www.isgs10.nl/) at Nijmegen, Netherland. I was also part of the presentation of our collaboration on developing guidalines for nonmanual annotations. 
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2025__ Although I couldn't make it in person, [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) presented our work on the prosody of focus in TİD at [ISGS 10](https://www.isgs10.nl/) at Nijmegen, Netherland. I was also part of the presentation of our collaboration on developing guidelines for nonmanual annotations. 
 
 <img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2025__ Along with [Austin German](https://austin-german.github.io/) and [Jeff Davis](https://linguistics.uchicago.edu/people/jeffery-davis), we received a small grant from the Center for Gesture, Sign, and Language at the University of Chicago to investigate the effects of animacy on word order across languages, ASL, TİD, LSN, and Z Sign. Stay tuned for the results!
 
@@ -47,7 +67,9 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2025__ I presented our production and perception studies on (a)typicality and prominence in ASL and TİD at [TISLR 15](https://tislrethiopia.org/).
 
-<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2025__ Our [study](https://jov.arvojournals.org/article.aspx?articleid=2802418) on the effects of learning sign language on temporal resolution in ASL learners in published in __Journal of Vision__! Huge __thanks__ to my collaborators [Sandra Wood](https://usm.maine.edu/directories/people/sandra-wood/), [Chuck Bradley](https://c-huck.github.io/), [Evie Malaia](https://cd.ua.edu/people/evie-malaia/), and [Ronnie Wilbur](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html)!
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2025__ Our [study](https://jov.arvojournals.org/article.aspx?articleid=2802418) on the effects of learning sign language on temporal resolution in ASL learners is published in __Journal of Vision__! Huge __thanks__ to my collaborators [Sandra Wood](https://usm.maine.edu/directories/people/sandra-wood/), [Chuck Bradley](https://c-huck.github.io/), [Evie Malaia](https://cd.ua.edu/people/evie-malaia/), and [Ronnie Wilbur](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html)!
+
+## 2024
 
 <img src="/images/institute.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2024__ I started my new postdoctoral position at [Toyota Technological Institute at Chicago](https://ttic.edu/)!
 
@@ -69,6 +91,8 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2024__ I was at [LSA 2024](https://virtual.oxfordabstracts.com/event/public/4438/information?page=1813) in New York. I presented our work with [Diane](https://linguistics.uchicago.edu/people/diane-brentari) on simultaneous accommodation strategies of ASL and TİD signers. I also presented my dissertation study on nonmanuals and signer certainty. It was great to catch up with everyone!
 
+## 2023
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> <img src="/images/information.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2023__ I was back at my alma mater, [Linguistics Department at Bogazici University](https://linguistics.bogazici.edu.tr/) for data collection. I also presented [our recent findings](https://linguistics.bogazici.edu.tr/blc-talk-serpil-karabuklu-november-24) on accommodation to atypicality among ASL and TİD signers. It was great to be back home after such a long time!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2023__ I presented my dissertation studies on signer certainty and nonmanuals in TİD as a poster at [XPrag 10](https://xpragx.sciencesconf.org/).
@@ -83,6 +107,8 @@ redirect_from:
 
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2023__ Our [TU+ Proceeding](https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5321) with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) on nonmanual focus markers in TİD is out!
 
+## 2022
+
 <img src="/images/graduated.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2022__ Now, I am officially graduated from Purdue with my PhD degree. Thank you so much, [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) for everything!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2022__ I presented my dissertation studies on signer certainty and nonmanuals in TİD at the Department of Linguistics at the University of Edinburgh. Thank you for having me!
@@ -95,21 +121,29 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2022__ I attended my first LSA Annual Meeting in Washington, DC to present our work on nonmanual annotation guidelines with [Ashley](https://www.linkedin.com/in/ashley-kentner-66bb361b6/) and [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html).
 
+## 2021
+
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2021__ Our [article](https://www.jbe-platform.com/content/journals/10.1075/sll.20006.kar) with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) on aspect signs in TİD is published in _Sign Language &amp; Linguistics_!
 
 <img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2021__ I received the Purdue University Ross-Lynn Research Fund to carry out my dissertation studies!
 
 <img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __April 2021__ I am awarded with Kneale Literary Award in Linguistics for my dissertation chapter! 
 
+## 2020
+
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2020__ Our [CLS proceeding](https://www.chicagolinguisticsociety.com/list.html) on modal signs in TİD with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) is published!
 
-<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2020__ Our [article](https://link.springer.com/article/10.1007/s10579-019-09465-5?cjdata=MXxOfDB8WXww) on machine readable TİD resource with [Gülşen Eryiğit]([https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html](https://web.itu.edu.tr/gulsenc/)), [Cihat Eryiğit](https://www.researchgate.net/scientific-contributions/Cihat-Eryigit-2136473370), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Aslı Özkul](https://www.alanyauniversity.edu.tr/tr/mudur), [Tuğba Pamay](https://research.itu.edu.tr/en/persons/pamay/), [Dilara Torunoğlu-Selamet](https://akademi.itu.edu.tr/tr/torunoglud/Dilara-Toruno%C4%9Flu-Selamet/), and [Hatice Köse](https://research.itu.edu.tr/en/persons/hatice-k%C3%B6se/) is published in _Language Resources &amp; Evaluation_!
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2020__ Our [article](https://link.springer.com/article/10.1007/s10579-019-09465-5?cjdata=MXxOfDB8WXww) on machine readable TİD resource with [Gülşen Eryiğit](https://web.itu.edu.tr/gulsenc/)), [Cihat Eryiğit](https://www.researchgate.net/scientific-contributions/Cihat-Eryigit-2136473370), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Aslı Özkul](https://www.alanyauniversity.edu.tr/tr/mudur), [Tuğba Pamay](https://research.itu.edu.tr/en/persons/pamay/), [Dilara Torunoğlu-Selamet](https://akademi.itu.edu.tr/tr/torunoglud/Dilara-Toruno%C4%9Flu-Selamet/), and [Hatice Köse](https://research.itu.edu.tr/en/persons/hatice-k%C3%B6se/) is published in _Language Resources &amp; Evaluation_!
+
+## 2019
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2019__ I was at [TISLR](https://www.idgs.uni-hamburg.de/en/forschung/tagungen/tislr2019.html) in Hamburg, Germany to present our poster on the morphology of number signs in TİD with [Aslı Özkul](https://www.alanyauniversity.edu.tr/tr/mudur).
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2019__ I attended [Expressing Evidentiality Workshop](http://semantics.uni-konstanz.de/workshops/evidence-2019/) in Konsanz, Germany to present my evidentiality work on TİD mouth gesture with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html). Konstanz was beautiful!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2019__ I attended [Expressing Evidentiality Workshop](http://semantics.uni-konstanz.de/workshops/evidence-2019/) in Konstanz, Germany to present my evidentiality work on TİD mouth gesture with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html). Konstanz was beautiful!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2019__ I was at [CLS 55](https://www.chicagolinguisticsociety.com/public/CLS55_Program.pdf) to present our work on modal semantics and nonmanuals with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) in Chicago, IL. It was great to catch up with friends and colleagues! 
+
+## 2018
 
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2018__ Our [FEAST proceeding](https://doi.org/10.31009/FEAST.i2.07) with [Fabian](https://www.fabianbross.de/), [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html), and [Daniel](https://www.uni-stuttgart.de/en/press/experts/Prof.-Daniel-Hole/) on modal signs and scope relations in TİD is published!
 
@@ -121,7 +155,11 @@ redirect_from:
 
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2018__ A new [article](https://dergipark.org.tr/en/download/article-file/499587) on time expressions in TİD is out in the Journal of Linguistics!
 
+## 2017
+
 <img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2017__ My [WAFL proceeding](http://mitwpl.mit.edu/catalog/mwpl83/) on aspect signs in TİD is published!
+
+## 2016
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2016__ I was back to my very first conference [FEAST](https://sites.google.com/site/feastconference/conferences/feast-venice-2016?authuser=0) in Venice to present my findings from my master thesis on aspect sign and nonmanual in TİD. It has always been beautiful to be back at FEAST and sign linguist community!
 
@@ -137,10 +175,14 @@ redirect_from:
 
 <img src="/images/institute.png" width="20" style="vertical-align:middle; margin-right:5px;"> __April 2016__ I will be starting PhD program at the [Department of Linguistics](https://www.cla.purdue.edu/academic/sis/p/linguistics/index.html) at Purdue University under Dr. [Ronnie Wilbur's](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) supervision in August! I am excited for the new adventure!
 
+## 2015
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2015__ I attended the 2015 International Congress on Barrier-Free Information Technology to present our work on online self learning platform of Turkish for TİD signers with [Caner Derici](https://home.dericilab.live/), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Sumru Özsoy](https://linguistics.bogazici.edu.tr/tr/sumru-ozsoy), and [Tunga Güngör](https://www.cmpe.boun.edu.tr/tr/people/tunga.gungor) in Manisa, Turkey.
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2015__ I attended [FEAST](https://sites.google.com/site/feastconference/conferences/feast-2015-barcelona-2) to present my poster on the perfective sign in TİD in Barcelona, Spain. I also attended the SignGram Summer School. 
 
 <img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2015__ I received a travel grant to attend SignGram Summer School in Barcelona, Spain in May.
+
+## 2014
 
 <img src="/images/training.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2014__ I attended [COST SignGram Summer School](https://sites.google.com/site/feastconference/summer-school) to learn more about sign language research. I also attended my very first academic conference [FEAST](https://sites.google.com/site/feastconference/home?authuser=0). It seems that I will be back!
