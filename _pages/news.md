@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "News"
+description: "Research news, publications, conference presentations, awards, and collaborations by sign language linguist Serpil Karabüklü."
 permalink: /news/
 author_profile: true
 redirect_from: 
