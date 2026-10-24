@@ -7,30 +7,24 @@ redirect_from:
   - /markdown.html
 
 ---
+My publications investigate how linguistic information is organized across multiple channels in sign languages and what this reveals about human language and cognition. The work spans three interconnected research areas, combining theoretical, experimental, and computational approaches.
 
-My research investigates **how linguistic information is organized and interpreted across multiple channels in sign languages**, and what this reveals about human language and cognition. My publications address questions in semantics, pragmatics, prosody, information structure, visual attention, and computational sign language understanding, combining theoretical, experimental, and computational approaches.
+### Research Areas
 
-### Research Contributions
+**<img src="/images/layers.png" width="18" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Linguistic Structure, Simultaneity, and Meaning**
 
-**<img src="/images/layers.png" width="18" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Linguistic structure, simultaneity, and meaning**
+Semantics, pragmatics, prosody, and information structure across manual and nonmanual articulators, including certainty, focus, aspect, and modality in sign languages. [Explore this research →](/research/#linguistic-structure)
 
-My work examines how sign languages encode linguistic distinctions through manual and nonmanual articulators, including the expression of certainty, focus, tense, aspect, and modality. These studies investigate how linguistic information is distributed across channels and how simultaneous structures contribute to meaning.
+**<img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;"> Language Experience, Production, and Processing**
 
-Selected publications: [Simultaneity of Certainty in TİD (2024)](https://doi.org/10.1016/j.pragma.2024.08.010) · [The Prosody of Focus in TİD (2024)](https://doi.org/10.1017/langcog.2024.4) · [Duration as a Prosodic Cue in TİD (2025)](https://doi.org/10.16995/glossa.17475)
+Age-of-acquisition effects on linguistic production and judgments, the relationship between sign language experience and visual attention, and the quantitative analysis of articulatory movement. [Explore this research →](/research/#language-cognition)
 
-**<img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;"> Language experience, visual attention, and bodily articulation**
+**<img src="/images/vision.png" width="18" alt="Computational modeling" style="vertical-align:middle; margin-right:6px;"> Computational Modeling and Linguistic Evaluation**
 
-I investigate how sign language experience relates to visual processing and how articulatory movements encode linguistic distinctions. This research combines experimental and quantitative methods to examine the relationship between language, perception, and linguistic structure.
-
-Selected research: [Effect of Sign Language Learning on Temporal Resolution of Visual Attention (2025)](https://doi.org/10.1167/jov.25.1.3) · [Beyond the Label: Head Nod Distinctions in ASL and TİD (2026)](https://doi.org/10.31234/osf.io/jgq9n_v2)
-
-**<img src="/images/vision.png" width="18" alt="Computational modeling" style="vertical-align:middle; margin-right:6px;"> Computational modeling and linguistic evaluation**
-
-My computational research investigates whether sign language models capture linguistically meaningful distinctions, particularly those distributed across multiple channels. I develop and apply linguistically grounded evaluation methods, including minimal translation pairs, to examine the representations and limitations of computational models.
-
-Selected publication: [Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs (2026)](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) — **Best Paper Award, GenSign Workshop at CVPR 2026**
+Linguistically grounded evaluation of sign language models, minimal translation pairs, and computational methods for analyzing linguistic structure. [Explore this research →](/research/#computational-modeling)
 
 ---
+
 ## Preprints
 <img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;">  __Karabüklü, S.__, Hakgüder, E. & Brentari, D. (2026). Beyond the Label: Capturing Nuanced Head Nod Distinctions in ASL and TİD via Pose Estimation and DTW. PsyArXiv. [DOI](https://doi.org/10.31234/osf.io/jgq9n_v2)
 
