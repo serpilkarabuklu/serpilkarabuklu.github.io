@@ -47,9 +47,6 @@ Our [new preprint](https://doi.org/10.31234/osf.io/jgq9n_v2) examines how ASL an
 <img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> **July 2026 | Best Paper Award – CVPR GenSign Workshop**
 Our [paper](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) on the linguistic evaluation of sign language models received the **Best Paper Award** at the CVPR 2026 GenSign Workshop! This work introduces linguistically grounded evaluation using minimal pairs and examines how computational models capture grammatical distinctions expressed across multiple channels. I'm especially happy to share this recognition with my collaborators!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **July 2026 | FEAST 2026 – TİD Syntax and Semantics**
-Our joint work with [Cem Barutçu](https://liberalarts.utexas.edu/linguistics/faculty/cb55839) on Clausal Question–Answer Pairs (CQAs) in Turkish Sign Language was accepted for presentation at [FEAST 2026](https://sites.google.com/view/feast-2026/home?authuser=0) in Amsterdam! This project grew out of Cem's course project and developed into a collaborative investigation of the syntax and semantics of CQAs. It's particularly rewarding to see student research develop into a conference presentation!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **June 2026 | CVPR GenSign Workshop – Sign Language Models**
-Our [work](https://arxiv.org/abs/2604.27232) investigating the linguistic sensitivity of sign language models was accepted as a poster at the [CVPR 2026 GenSign Workshop](https://genai4sl.github.io/) in Denver! Using linguistically motivated minimal pairs, we examine whether computational models capture grammatical information across manual and nonmanual channels.
+[**View all news →**](/news/)
 
