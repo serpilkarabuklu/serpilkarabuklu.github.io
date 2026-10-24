@@ -7,7 +7,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-# News
 
 Research updates, publications, conference presentations, awards, and collaborations.
 
