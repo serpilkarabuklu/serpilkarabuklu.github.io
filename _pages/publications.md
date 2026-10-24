@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Publications by Serpil Karabüklü on sign language semantics, prosody, nonmanual markers, simultaneity, cognition, and computational linguistics."
 permalink: /publications/
 author_profile: true
 redirect_from: 
