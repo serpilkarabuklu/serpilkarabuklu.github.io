@@ -37,7 +37,7 @@ Selected publication: [Targeted Linguistic Analysis of Sign Language Models with
 ## Journal Articles 
 <img src="/images/layers.png" width="18" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> <img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;"> Gürer, A., __Karabüklü, S.__ & Çavuşoğlu, B. (2025). Duration as a prosodic cue in TİD: Focus realization in the extended domain. _Glossa. A journal of general linguistics_, 10(1). [DOI](https://doi.org/10.16995/glossa.17475)
 
-<img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;"> __Karabüklü, S.__*, Wood, S. *., Bradley, C., Wilbur, R. & Malaia, E. (2025). Effect of sign language learning on temporal resolution of visual attention. _Journal of Vision_, 25(1):3. [DOI](https://doi.org/10.1167/jov.25.1.3)
+<img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;"> __Karabüklü, S.__*, Wood, S. *., Bradley, C., Wilbur, R. & Malaia, E. (2025). Effect of sign language learning on temporal resolution of visual attention. _Journal of Vision_, 25(1):3. [DOI](https://doi.org/10.1167/jov.25.1.3) (* = indicates equal contribution)
 
 <img src="/images/layers.png" width="18" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> <img src="/images/brain.png" width="18" alt="Language experience" style="vertical-align:middle; margin-right:6px;"> __Karabüklü, S.__ (2024). Simultaneity of Certainty in Turkish Sign Language (TİD). _Journal of Pragmatics_, 232:141-166, [DOI](https://doi.org/10.1016/j.pragma.2024.08.010)
 
