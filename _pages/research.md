@@ -22,7 +22,7 @@ Through three interconnected research strands, I examine what the organization o
 
 <a id="linguistic-structure"></a>
 
-## <img src="/images/layers.png" width="24" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Linguistic structure, simultaneity, and meaning**
+## <img src="/images/layers.png" width="24" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Linguistic structure, simultaneity, and meaning
 
 **How do multiple articulators contribute to linguistic meaning, and what determines how information is distributed across them?**
 
