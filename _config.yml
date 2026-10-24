@@ -144,14 +144,17 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description: "Serpil Karabüklü researches sign language simultaneity, semantics, prosody, language experience, and computational modeling."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type: Person
+  name: "Serpil Karabüklü"
+  links:
+    - "https://orcid.org/0000-0002-5221-4575"
+    - "https://scholar.google.com/citations?user=AFVO-uQAAAAJ"
+    - "https://github.com/serpilkarabuklu"
+    - "https://www.linkedin.com/in/serpil-karabuklu"
 
 # Analytics
 analytics:
