@@ -20,9 +20,9 @@ Through three interconnected research strands, I examine what the organization o
 
 ---
 
-\<a id="linguistic-structure">\</a>
+<a id="linguistic-structure"></a>
 
-## \<img src="/images/layers.png" width="24" alt="" style="vertical-align\:middle; margin-right:8px;"> Linguistic Structure, Simultaneity, and Meaning
+## <img src="/images/layers.png" width="24" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Linguistic structure, simultaneity, and meaning**
 
 **How do multiple articulators contribute to linguistic meaning, and what determines how information is distributed across them?**
 
@@ -41,9 +41,9 @@ Together, these studies raise broader questions about how languages allocate lin
 
 ---
 
-\<a id="language-cognition">\</a>
+<a id="language-cognition"></a>
 
-## \<img src="/images/brain.png" width="24" alt="" style="vertical-align\:middle; margin-right:8px;"> Language Experience, Visual Attention, and Cognition
+## <img src="/images/brain.png" width="24" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Language Experience, Visual Attention, and Cognition
 
 **How do language experience and cognitive processes shape the production and interpretation of linguistic information across channels?**
 
@@ -62,9 +62,9 @@ These questions connect sign language research to broader issues in language acq
 
 ---
 
-\<a id="computational-modeling">\</a>
+<a id="computational-modeling"></a>
 
-## \<img src="/images/vision.png" width="24" alt="" style="vertical-align\:middle; margin-right:8px;"> Computational Modeling and Linguistic Evaluation
+## <img src="/images/vision.png" width="24" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Computational Modeling and Linguistic Evaluation
 
 **Can computational models capture the linguistic distinctions expressed across multiple channels in sign languages?**
 
