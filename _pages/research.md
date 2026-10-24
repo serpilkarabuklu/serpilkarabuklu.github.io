@@ -1,5 +1,5 @@
 ---
-title: "Research | Language Across Channels"
+title: "Research"
 description: "Research on how sign languages organize meaning across hands, face, body, space, and time, and what simultaneity reveals about language and cognition."
 permalink: /research/
 author_profile: true
