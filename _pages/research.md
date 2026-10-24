@@ -45,18 +45,22 @@ Together, these studies raise broader questions about how languages allocate lin
 
 ## <img src="/images/brain.png" width="24" alt="Linguistic structure" style="vertical-align:middle; margin-right:6px;"> Language Experience, Visual Attention, and Cognition
 
-**How do language experience and cognitive processes shape the production and interpretation of linguistic information across channels?**
+**How does language experience shape the production, perception, and interpretation of linguistic information across channels?**
 
-Understanding simultaneous linguistic structure requires investigating not only how information is encoded, but also how it is perceived, processed, and interpreted.
+Understanding simultaneous linguistic structure requires investigating not only how information is encoded, but also how language experience shapes its production and interpretation.
 
-My research examines the relationship between sign language experience and visual perception, including how learning a sign language relates to the temporal resolution of visual attention. I also investigate how the kinematic properties of head movements distinguish linguistic functions in ASL and TİD, using pose estimation and dynamic time warping to move beyond categorical descriptions of nonmanual behavior.
+My research on Turkish Sign Language (TİD) reveals **age-of-acquisition differences in linguistic production and judgment**. Later-acquiring signers produced longer sign durations and more nonmanual articulations, showed less differentiation across semantic categories, and were more likely to accept linguistically unacceptable forms. These findings suggest that language experience influences not only individual linguistic cues but also how distinctions are organized and interpreted.
 
-Building on this work, I am interested in how **age of acquisition and language experience** shape the interpretation of simultaneous linguistic information. In particular, how do signers integrate information from different articulators, and how might differences in language experience affect the use and processing of these channels?
+Complementing this work, my research examines how sign language learning relates to the temporal resolution of visual attention, connecting language experience to broader questions about perceptual processing. I also investigate how the kinematic properties of head movements distinguish linguistic functions in ASL and TİD, using pose estimation and dynamic time warping to move beyond categorical descriptions of nonmanual behavior.
 
-These questions connect sign language research to broader issues in language acquisition, perceptual experience, linguistic processing, and the cognitive representation of language.
+Building on these findings, my ongoing research asks how **age of acquisition affects the integration and interpretation of simultaneous linguistic structures**. In particular, how do signers with different language acquisition histories use information distributed across manual and nonmanual articulators?
+
+Together, these studies contribute to understanding the relationship between **language experience, linguistic representation, perception, and processing**.
 
 **Selected publications and preprints**
 
+- [Simultaneity of Certainty in Turkish Sign Language (2024)](https://doi.org/10.1016/j.pragma.2024.08.010)
+- [The Prosody of Focus in Turkish Sign Language (2024)](https://doi.org/10.1017/langcog.2024.4)
 - [Effect of Sign Language Learning on Temporal Resolution of Visual Attention (2025)](https://doi.org/10.1167/jov.25.1.3)
 - [Beyond the Label: Capturing Nuanced Head Nod Distinctions in ASL and TİD via Pose Estimation and DTW (2026)](https://doi.org/10.31234/osf.io/jgq9n_v2)
 
