@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+description: "Serpil Karabüklü is a sign language linguist studying simultaneity, meaning, prosody, language experience, and computational modeling."
 author_profile: true
 redirect_from: 
   - /about/
