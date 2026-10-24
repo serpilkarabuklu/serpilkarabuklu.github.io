@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Language Across Channels"
 description: "Research on how sign languages organize meaning across hands, face, body, space, and time, and what simultaneity reveals about language and cognition."
 permalink: /research/
 author_profile: true
@@ -8,8 +8,6 @@ redirect_from:
   - /markdown.html
 
 ---
-
-# Language Across Channels
 
 **How does language organize meaning when multiple channels can express information simultaneously?**
 
