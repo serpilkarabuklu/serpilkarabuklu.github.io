@@ -18,7 +18,7 @@ I am a Visiting Scientist at [Toyota Technological Institute at Chicago (TTIC)](
 
 My broader research program, *Language Across Channels*, seeks to understand what these patterns reveal about **the architecture of human language and cognition**. By examining how linguistic information is organized across multiple channels, I aim to identify principles of linguistic structure and processing that extend beyond individual languages and modalities.
 
-Explore my [research](/research/) and [publications](/publications/) to learn more.
+Explore my [research](/research/) and [publications](/publications/) to learn more. You can also view my [CV](/files/Karabuklu_CV.pdf).
 
 ## Research Background
 
