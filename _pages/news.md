@@ -17,6 +17,9 @@ For an overview of my scientific contributions, visit my [Research](/research/) 
 
 ## 2026
 
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **November 2026 | EACL 2027 – Multichannel Organization in Sign Language AI**
+Our paper, _Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs,_ has been accepted to the __2027 European Chapter of the Association for Computational Linguistics (EACL) Main Conference!__ We introduce ASL-MTP, a linguistically informed benchmark to investigate how sign language translation models capture linguistic information organized across manual and nonmanual channels. Our findings reveal that models rely heavily on manual cues and show inconsistent sensitivity to nonmanual information, raising broader questions about how computational models represent and integrate multichannel linguistic structure. [Preprint](https://arxiv.org/abs/2604.27232)
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> **September 2026 | LSA 2027 – Crosslinguistic Research**
 Our work on the computational analysis of head nod trajectories in American Sign Language (ASL) and Turkish Sign Language (TİD) has been accepted for presentation at the [2027 Linguistic Society of America Annual Meeting](https://web.cvent.com/event/4c718093-cdd4-45b1-b649-a78146a2ea90/summary)! Our findings reveal how distinct linguistic functions are encoded through specific kinematic properties of head movements, rather than through holistic movement patterns.
 
